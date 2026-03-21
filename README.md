@@ -1,2 +1,24 @@
-# blinkit-Sales-Analysis
-This project analyzes retail sales data using Python to generate business insights. It includes data cleaning, exploratory data analysis, and visualization to identify sales trends, top products, and customer behavior using Pandas, NumPy, Matplotlib, and Seaborn.
+
+## 📊 Project Overview
+- Analyzed Blinkit sales dataset using Python
+- Performed data cleaning and preprocessing
+- Conducted exploratory data analysis (EDA)
+- Generated insights on sales trends and product performance
+
+## 🛠️ Tools & Libraries
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+## 📁 Project Structure
+- data/ → raw dataset
+- notebook/ → analysis notebook
+
+## 🚀 Key Insights
+- Identified top-selling products
+- Analyzed sales distribution
+- Found patterns in customer purchasing behavior
+
+
